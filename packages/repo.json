@@ -2,5 +2,10 @@
   "repository_name": "CNULP Official Repository",
   "last_updated": "2026-06-09",
   "packages": [
+  {
+    "name": "exampleapp",
+    "version": "0.0.0",
+    "url": "https://raw.githubusercontent.com/lev445/CnUlP-Repository-Packages/main/packages/exampleapp_0.0.0.cn"
+  }
   ]
 }
