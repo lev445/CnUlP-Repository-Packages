@@ -2,20 +2,5 @@
   "repository_name": "CNULP Official Repository",
   "last_updated": "2026-06-09",
   "packages": [
-    {
-      "name": "cnulp-welcome",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/lev445/CnUlP-Repository-Packages/main/packages/cnulp-welcome_1.0.0.cn"
-    },
-    {
-      "name": "neofetch-lite",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/lev445/CnUlP-Repository-Packages/main/packages/neofetch-lite_1.0.0.cn"
-    },
-    {
-      "name": "ruby-check",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/lev445/CnUlP-Repository-Packages/main/packages/ruby-check_1.0.0.cn"
-    }
   ]
 }
